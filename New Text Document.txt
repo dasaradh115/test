@@ -1,0 +1,4 @@
+url-https://getacert.com/signacert.html	
+
+
+Opatch lsinventory -all -jre $JAVA_HOME -invptr /home/oracle/wls12c/oralnst.loc
